@@ -40,7 +40,7 @@ public class MyAndroidView {
         @Override
         public View getView() {
             TextView textView = new TextView(context);
-            textView.setText("我是内容");
+            textView.setText("this is text view");
             return textView;
         }
 
